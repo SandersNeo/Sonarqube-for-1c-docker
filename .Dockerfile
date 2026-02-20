@@ -1,7 +1,7 @@
-FROM mc1arke/sonarqube-with-community-branch-plugin:25.5.0.107428-community
+FROM mc1arke/sonarqube-with-community-branch-plugin:26.1.0.118079-community
 
-ARG RUSSIAN_PACK=25.1
-ARG BSL_PLUGIN_VERSION=1.16.1
+ARG RUSSIAN_PACK=25.7
+ARG BSL_PLUGIN_VERSION=1.17.2
 
 USER root
 
